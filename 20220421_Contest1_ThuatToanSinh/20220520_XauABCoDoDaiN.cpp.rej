@@ -1,0 +1,11 @@
+diff a/20220421_Contest1_ThuatToanSinh/20220520_XauABCoDoDaiN.cpp b/20220421_Contest1_ThuatToanSinh/20220520_XauABCoDoDaiN.cpp	(rejected hunks)
+@@ -6,6 +6,6 @@
+     cin>>t;
+     while(t--)
+     {
+-        
++        count <<"Hello thuat toan sinh"<<endl;
+     }
+-}
+\ No newline at end of file
++}
