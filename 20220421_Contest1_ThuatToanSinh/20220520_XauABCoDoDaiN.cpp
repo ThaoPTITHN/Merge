@@ -6,6 +6,6 @@ int main()
     cin>>t;
     while(t--)
     {
-        
+        count <<"Hello thuat toan sinh"<<endl;
     }
 }
